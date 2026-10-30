@@ -1,0 +1,20 @@
+services:
+  postgres:
+    image: pgvector/pgvector:pg16
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER:-zamora}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-zamora}
+      POSTGRES_DB: ${POSTGRES_DB:-zamora}
+    ports:
+      - "${POSTGRES_PORT:-5432}:5432"
+    volumes:
+      - zamora_pg:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER:-zamora} -d ${POSTGRES_DB:-zamora}"]
+      interval: 3s
+      timeout: 5s
+      retries: 30
+    restart: unless-stopped
+
+volumes:
+  zamora_pg:

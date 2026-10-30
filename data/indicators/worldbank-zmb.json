@@ -1,0 +1,862 @@
+{
+  "retrieved": "2026-10-14",
+  "source": "World Bank Open Data API",
+  "sourceUrl": "https://api.worldbank.org/v2/country/ZMB/indicator",
+  "country": "Zambia",
+  "countryCode": "ZMB",
+  "note": "Retrieved for Zambia only. Values are copied from the World Bank response and rounded to one decimal in the interface. ZAMORA did not estimate missing years.",
+  "series": [
+    {
+      "code": "FP.CPI.TOTL.ZG",
+      "name": "Inflation, consumer prices (annual %)",
+      "unit": "percent per year",
+      "question": "public-finance",
+      "caveat": "National annual consumer-price inflation as published by the World Bank. It is not a household budget, a food-price index, or a ZAMORA forecast. The latest year may be revised.",
+      "observations": [
+        {
+          "year": 1986,
+          "value": 55.8282208588966
+        },
+        {
+          "year": 1987,
+          "value": 47.0472440944876
+        },
+        {
+          "year": 1988,
+          "value": 51.0040160642573
+        },
+        {
+          "year": 1989,
+          "value": 123.404255319149
+        },
+        {
+          "year": 1990,
+          "value": 107.023809523808
+        },
+        {
+          "year": 1991,
+          "value": 97.6423231742383
+        },
+        {
+          "year": 1992,
+          "value": 165.706527009989
+        },
+        {
+          "year": 1993,
+          "value": 183.312041464393
+        },
+        {
+          "year": 1994,
+          "value": 54.6013218413016
+        },
+        {
+          "year": 1995,
+          "value": 34.9295874166667
+        },
+        {
+          "year": 1996,
+          "value": 43.0730979982881
+        },
+        {
+          "year": 1997,
+          "value": 24.4187215689412
+        },
+        {
+          "year": 1998,
+          "value": 24.4584563516656
+        },
+        {
+          "year": 1999,
+          "value": 26.7876966790028
+        },
+        {
+          "year": 2000,
+          "value": 26.0304117888121
+        },
+        {
+          "year": 2001,
+          "value": 21.3937821792545
+        },
+        {
+          "year": 2002,
+          "value": 22.2333446430946
+        },
+        {
+          "year": 2003,
+          "value": 21.4015783901995
+        },
+        {
+          "year": 2004,
+          "value": 17.9677891087286
+        },
+        {
+          "year": 2005,
+          "value": 18.3244397011739
+        },
+        {
+          "year": 2006,
+          "value": 9.01957247226485
+        },
+        {
+          "year": 2007,
+          "value": 10.6573496000152
+        },
+        {
+          "year": 2008,
+          "value": 12.4455793463192
+        },
+        {
+          "year": 2009,
+          "value": 13.3952546325895
+        },
+        {
+          "year": 2010,
+          "value": 8.50176133365264
+        },
+        {
+          "year": 2011,
+          "value": 6.4293968107234
+        },
+        {
+          "year": 2012,
+          "value": 6.57589970757697
+        },
+        {
+          "year": 2013,
+          "value": 6.97767605490307
+        },
+        {
+          "year": 2014,
+          "value": 7.80687553566332
+        },
+        {
+          "year": 2015,
+          "value": 10.1105928909617
+        },
+        {
+          "year": 2016,
+          "value": 17.8697300795267
+        },
+        {
+          "year": 2017,
+          "value": 6.57731154205644
+        },
+        {
+          "year": 2018,
+          "value": 7.4945719272852
+        },
+        {
+          "year": 2019,
+          "value": 9.15031644316295
+        },
+        {
+          "year": 2020,
+          "value": 15.7330604721369
+        },
+        {
+          "year": 2021,
+          "value": 22.0207676245776
+        },
+        {
+          "year": 2022,
+          "value": 10.9932039209135
+        },
+        {
+          "year": 2023,
+          "value": 10.884531691282
+        },
+        {
+          "year": 2024,
+          "value": 14.9856262747939
+        },
+        {
+          "year": 2025,
+          "value": 13.9099095827735
+        }
+      ]
+    },
+    {
+      "code": "NY.GDP.MKTP.KD.ZG",
+      "name": "GDP growth (annual %)",
+      "unit": "percent per year",
+      "question": "public-finance",
+      "caveat": "National annual real GDP growth as published by the World Bank. It is not a measure of employment, mining output, or household income.",
+      "observations": [
+        {
+          "year": 1961,
+          "value": 1.36138199147489
+        },
+        {
+          "year": 1962,
+          "value": -2.49083947454871
+        },
+        {
+          "year": 1963,
+          "value": 3.27239289272524
+        },
+        {
+          "year": 1964,
+          "value": 12.2140480179323
+        },
+        {
+          "year": 1965,
+          "value": 16.6474559632126
+        },
+        {
+          "year": 1966,
+          "value": -5.57030980860466
+        },
+        {
+          "year": 1967,
+          "value": 7.91969651199875
+        },
+        {
+          "year": 1968,
+          "value": 1.24832998222797
+        },
+        {
+          "year": 1969,
+          "value": -0.436915823088214
+        },
+        {
+          "year": 1970,
+          "value": 4.79711290318896
+        },
+        {
+          "year": 1971,
+          "value": -0.0860395508674401
+        },
+        {
+          "year": 1972,
+          "value": 9.20886514231279
+        },
+        {
+          "year": 1973,
+          "value": -0.962048756426327
+        },
+        {
+          "year": 1974,
+          "value": 6.42815854892096
+        },
+        {
+          "year": 1975,
+          "value": -2.26932892418952
+        },
+        {
+          "year": 1976,
+          "value": 6.22097526707175
+        },
+        {
+          "year": 1977,
+          "value": -4.5642361743654
+        },
+        {
+          "year": 1978,
+          "value": 0.553763844248408
+        },
+        {
+          "year": 1979,
+          "value": -3.02393103121803
+        },
+        {
+          "year": 1980,
+          "value": 3.03562235066106
+        },
+        {
+          "year": 1981,
+          "value": 6.16795740650589
+        },
+        {
+          "year": 1982,
+          "value": -2.81278262868891
+        },
+        {
+          "year": 1983,
+          "value": -1.96668929762134
+        },
+        {
+          "year": 1984,
+          "value": -0.336834899256019
+        },
+        {
+          "year": 1985,
+          "value": 1.61531036759311
+        },
+        {
+          "year": 1986,
+          "value": 0.723893955923913
+        },
+        {
+          "year": 1987,
+          "value": 2.67566171341133
+        },
+        {
+          "year": 1988,
+          "value": 6.28074900897693
+        },
+        {
+          "year": 1989,
+          "value": -1.02350178869868
+        },
+        {
+          "year": 1990,
+          "value": -0.481072027781664
+        },
+        {
+          "year": 1991,
+          "value": -0.0361333838823299
+        },
+        {
+          "year": 1992,
+          "value": -1.73092217352566
+        },
+        {
+          "year": 1993,
+          "value": 6.79727404907118
+        },
+        {
+          "year": 1994,
+          "value": -8.62544195231277
+        },
+        {
+          "year": 1995,
+          "value": 2.89766889341698
+        },
+        {
+          "year": 1996,
+          "value": 6.21854648894293
+        },
+        {
+          "year": 1997,
+          "value": 3.81400749718355
+        },
+        {
+          "year": 1998,
+          "value": -0.38574614579035
+        },
+        {
+          "year": 1999,
+          "value": 4.6501897463741
+        },
+        {
+          "year": 2000,
+          "value": 3.89732294341896
+        },
+        {
+          "year": 2001,
+          "value": 5.31686827418419
+        },
+        {
+          "year": 2002,
+          "value": 4.50601428032604
+        },
+        {
+          "year": 2003,
+          "value": 6.94497398221223
+        },
+        {
+          "year": 2004,
+          "value": 7.03239511515218
+        },
+        {
+          "year": 2005,
+          "value": 7.23559900655543
+        },
+        {
+          "year": 2006,
+          "value": 7.90369444480079
+        },
+        {
+          "year": 2007,
+          "value": 8.35243624447406
+        },
+        {
+          "year": 2008,
+          "value": 7.77389581542363
+        },
+        {
+          "year": 2009,
+          "value": 9.2203484058663
+        },
+        {
+          "year": 2010,
+          "value": 10.2982233241213
+        },
+        {
+          "year": 2011,
+          "value": 5.56925219263019
+        },
+        {
+          "year": 2012,
+          "value": 7.59738104901994
+        },
+        {
+          "year": 2013,
+          "value": 5.05753695047252
+        },
+        {
+          "year": 2014,
+          "value": 4.69328316376705
+        },
+        {
+          "year": 2015,
+          "value": 2.92037511217961
+        },
+        {
+          "year": 2016,
+          "value": 3.75510031678988
+        },
+        {
+          "year": 2017,
+          "value": 3.52586277149926
+        },
+        {
+          "year": 2018,
+          "value": 4.03449389667165
+        },
+        {
+          "year": 2019,
+          "value": 1.44130602603785
+        },
+        {
+          "year": 2020,
+          "value": -2.78505506545167
+        },
+        {
+          "year": 2021,
+          "value": 6.23492204726448
+        },
+        {
+          "year": 2022,
+          "value": 5.21122360356247
+        },
+        {
+          "year": 2023,
+          "value": 5.36794285493059
+        },
+        {
+          "year": 2024,
+          "value": 3.82004825518591
+        },
+        {
+          "year": 2025,
+          "value": 3.75772836763902
+        }
+      ]
+    },
+    {
+      "code": "AG.YLD.CREL.KG",
+      "name": "Cereal yield (kg per hectare)",
+      "unit": "kilograms per hectare",
+      "question": "food",
+      "caveat": "National cereal yield. Yield is not food security, maize availability, or a statement about any province.",
+      "observations": [
+        {
+          "year": 1961,
+          "value": 822.2
+        },
+        {
+          "year": 1962,
+          "value": 801.4
+        },
+        {
+          "year": 1963,
+          "value": 706.9
+        },
+        {
+          "year": 1964,
+          "value": 788.9
+        },
+        {
+          "year": 1965,
+          "value": 823.5
+        },
+        {
+          "year": 1966,
+          "value": 878
+        },
+        {
+          "year": 1967,
+          "value": 869.6
+        },
+        {
+          "year": 1968,
+          "value": 785.2
+        },
+        {
+          "year": 1969,
+          "value": 774
+        },
+        {
+          "year": 1970,
+          "value": 624.4
+        },
+        {
+          "year": 1971,
+          "value": 876.3
+        },
+        {
+          "year": 1972,
+          "value": 1007.1
+        },
+        {
+          "year": 1973,
+          "value": 838.7
+        },
+        {
+          "year": 1974,
+          "value": 967.7
+        },
+        {
+          "year": 1975,
+          "value": 1311.1
+        },
+        {
+          "year": 1976,
+          "value": 1375.7
+        },
+        {
+          "year": 1977,
+          "value": 1504.7
+        },
+        {
+          "year": 1978,
+          "value": 1515.4
+        },
+        {
+          "year": 1979,
+          "value": 1529.1
+        },
+        {
+          "year": 1980,
+          "value": 1567.5
+        },
+        {
+          "year": 1981,
+          "value": 1930.6
+        },
+        {
+          "year": 1982,
+          "value": 1572.1
+        },
+        {
+          "year": 1983,
+          "value": 1651.2
+        },
+        {
+          "year": 1984,
+          "value": 1646.1
+        },
+        {
+          "year": 1985,
+          "value": 1842.8
+        },
+        {
+          "year": 1986,
+          "value": 1930.6
+        },
+        {
+          "year": 1987,
+          "value": 1610.3
+        },
+        {
+          "year": 1988,
+          "value": 2457.4
+        },
+        {
+          "year": 1989,
+          "value": 1717.3
+        },
+        {
+          "year": 1990,
+          "value": 1351.9
+        },
+        {
+          "year": 1991,
+          "value": 1640.6
+        },
+        {
+          "year": 1992,
+          "value": 763.1
+        },
+        {
+          "year": 1993,
+          "value": 2302.9
+        },
+        {
+          "year": 1994,
+          "value": 1417.5
+        },
+        {
+          "year": 1995,
+          "value": 1331.4
+        },
+        {
+          "year": 1996,
+          "value": 1911.7
+        },
+        {
+          "year": 1997,
+          "value": 1413.4
+        },
+        {
+          "year": 1998,
+          "value": 1211.2
+        },
+        {
+          "year": 1999,
+          "value": 1323.6
+        },
+        {
+          "year": 2000,
+          "value": 1682.3
+        },
+        {
+          "year": 2001,
+          "value": 1403.7
+        },
+        {
+          "year": 2002,
+          "value": 1629.6
+        },
+        {
+          "year": 2003,
+          "value": 1721.2
+        },
+        {
+          "year": 2004,
+          "value": 1825.3
+        },
+        {
+          "year": 2005,
+          "value": 1905.4
+        },
+        {
+          "year": 2006,
+          "value": 2145.9
+        },
+        {
+          "year": 2007,
+          "value": 2258.6
+        },
+        {
+          "year": 2008,
+          "value": 2188
+        },
+        {
+          "year": 2009,
+          "value": 2072.2
+        },
+        {
+          "year": 2010,
+          "value": 2540.9
+        },
+        {
+          "year": 2011,
+          "value": 2745.1
+        },
+        {
+          "year": 2012,
+          "value": 2708.8
+        },
+        {
+          "year": 2013,
+          "value": 2596.1
+        },
+        {
+          "year": 2014,
+          "value": 2774.9
+        },
+        {
+          "year": 2015,
+          "value": 3026.4
+        },
+        {
+          "year": 2016,
+          "value": 2432.2
+        },
+        {
+          "year": 2017,
+          "value": 2489.9
+        },
+        {
+          "year": 2018,
+          "value": 2168.1
+        },
+        {
+          "year": 2019,
+          "value": 2400.4
+        },
+        {
+          "year": 2020,
+          "value": 2481.6
+        },
+        {
+          "year": 2021,
+          "value": 2525
+        },
+        {
+          "year": 2022,
+          "value": 2457.4
+        },
+        {
+          "year": 2023,
+          "value": 2343.8
+        },
+        {
+          "year": 2024,
+          "value": 2318.3
+        }
+      ]
+    },
+    {
+      "code": "EG.ELC.ACCS.ZS",
+      "name": "Access to electricity (% of population)",
+      "unit": "percent of population",
+      "question": "kariba-power",
+      "caveat": "Share of the population with access to electricity. Access is not generation, not hydropower, and not a record of load shedding.",
+      "observations": [
+        {
+          "year": 1990,
+          "value": 13.9
+        },
+        {
+          "year": 1991,
+          "value": 12.7527027130127
+        },
+        {
+          "year": 1992,
+          "value": 19.2
+        },
+        {
+          "year": 1993,
+          "value": 14.213207244873
+        },
+        {
+          "year": 1994,
+          "value": 14.9417591094971
+        },
+        {
+          "year": 1995,
+          "value": 15.6682720184326
+        },
+        {
+          "year": 1996,
+          "value": 17.3
+        },
+        {
+          "year": 1997,
+          "value": 17.1124591827393
+        },
+        {
+          "year": 1998,
+          "value": 19
+        },
+        {
+          "year": 1999,
+          "value": 18.5402450561523
+        },
+        {
+          "year": 2000,
+          "value": 16.7
+        },
+        {
+          "year": 2001,
+          "value": 20.2
+        },
+        {
+          "year": 2002,
+          "value": 17.4
+        },
+        {
+          "year": 2003,
+          "value": 18.5
+        },
+        {
+          "year": 2004,
+          "value": 20.3
+        },
+        {
+          "year": 2005,
+          "value": 23.3
+        },
+        {
+          "year": 2006,
+          "value": 24.1
+        },
+        {
+          "year": 2007,
+          "value": 18.5
+        },
+        {
+          "year": 2008,
+          "value": 25.7
+        },
+        {
+          "year": 2009,
+          "value": 26.6
+        },
+        {
+          "year": 2010,
+          "value": 22
+        },
+        {
+          "year": 2011,
+          "value": 28.3
+        },
+        {
+          "year": 2012,
+          "value": 29.2
+        },
+        {
+          "year": 2013,
+          "value": 30.1
+        },
+        {
+          "year": 2014,
+          "value": 27.9
+        },
+        {
+          "year": 2015,
+          "value": 31.1
+        },
+        {
+          "year": 2016,
+          "value": 35.4
+        },
+        {
+          "year": 2017,
+          "value": 40.3
+        },
+        {
+          "year": 2018,
+          "value": 40.2
+        },
+        {
+          "year": 2019,
+          "value": 43
+        },
+        {
+          "year": 2020,
+          "value": 44.6
+        },
+        {
+          "year": 2021,
+          "value": 46.7
+        },
+        {
+          "year": 2022,
+          "value": 47.8
+        },
+        {
+          "year": 2023,
+          "value": 51.1
+        },
+        {
+          "year": 2024,
+          "value": 53.6
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,324 @@
+{
+  "sourceTitle": "Penal Code Act",
+  "sourceUrl": "https://www.parliament.gov.zm/sites/default/files/documents/acts/Penal%20Code%20Act.pdf",
+  "publisher": "National Assembly of Zambia",
+  "capturedOn": "2026-10-15",
+  "sample": "pages 1-50",
+  "dpi": 200,
+  "normalization": "Judged error ignores order: token counts of letters and digits. orderCer keeps character distance, which the PDF text layer inflates when its reading order is not the page.",
+  "screened": [
+    {
+      "title": "National Flag and Armorial Ensigns Act",
+      "url": "https://www.parliament.gov.zm/sites/default/files/documents/acts/National%20Flag%20and%20Armorial%20Ensigns%20Act.pdf",
+      "pages": 7,
+      "pagesMissingText": 0
+    }
+  ],
+  "notFetched": "Gazette issue pages on gazettes.africa returned HTTP 403 to a download, so no gazette scan is in this sample.",
+  "pagesInFile": 145,
+  "pagesMissingTextInFile": 0,
+  "pagesMissingTextInSample": 0,
+  "pages": [
+    {
+      "page": 1,
+      "textLayer": "present",
+      "cer": 0.0147,
+      "orderCer": 0.3687
+    },
+    {
+      "page": 2,
+      "textLayer": "present",
+      "cer": 0,
+      "orderCer": 0.1682
+    },
+    {
+      "page": 3,
+      "textLayer": "present",
+      "cer": 0.0069,
+      "orderCer": 0.1563
+    },
+    {
+      "page": 4,
+      "textLayer": "present",
+      "cer": 0,
+      "orderCer": 0.1153
+    },
+    {
+      "page": 5,
+      "textLayer": "present",
+      "cer": 0,
+      "orderCer": 0.1623
+    },
+    {
+      "page": 6,
+      "textLayer": "present",
+      "cer": 0,
+      "orderCer": 0.121
+    },
+    {
+      "page": 7,
+      "textLayer": "present",
+      "cer": 0,
+      "orderCer": 0.1742
+    },
+    {
+      "page": 8,
+      "textLayer": "present",
+      "cer": 0,
+      "orderCer": 0.1048
+    },
+    {
+      "page": 9,
+      "textLayer": "present",
+      "cer": 0,
+      "orderCer": 0.1392
+    },
+    {
+      "page": 10,
+      "textLayer": "present",
+      "cer": 0,
+      "orderCer": 0.1366
+    },
+    {
+      "page": 11,
+      "textLayer": "present",
+      "cer": 0,
+      "orderCer": 0.1409
+    },
+    {
+      "page": 12,
+      "textLayer": "present",
+      "cer": 0,
+      "orderCer": 0.1887
+    },
+    {
+      "page": 13,
+      "textLayer": "present",
+      "cer": 0,
+      "orderCer": 0.1764
+    },
+    {
+      "page": 14,
+      "textLayer": "present",
+      "cer": 0,
+      "orderCer": 0.1223
+    },
+    {
+      "page": 15,
+      "textLayer": "present",
+      "cer": 0,
+      "orderCer": 0.1139
+    },
+    {
+      "page": 16,
+      "textLayer": "present",
+      "cer": 0.015,
+      "orderCer": 0.157
+    },
+    {
+      "page": 17,
+      "textLayer": "present",
+      "cer": 0,
+      "orderCer": 0.1645
+    },
+    {
+      "page": 18,
+      "textLayer": "present",
+      "cer": 0,
+      "orderCer": 0.112
+    },
+    {
+      "page": 19,
+      "textLayer": "present",
+      "cer": 0.0132,
+      "orderCer": 0.1495
+    },
+    {
+      "page": 20,
+      "textLayer": "present",
+      "cer": 0.0235,
+      "orderCer": 0.2556
+    },
+    {
+      "page": 21,
+      "textLayer": "present",
+      "cer": 0.521,
+      "orderCer": 0.3746
+    },
+    {
+      "page": 22,
+      "textLayer": "present",
+      "cer": 0.0292,
+      "orderCer": 0.1483
+    },
+    {
+      "page": 23,
+      "textLayer": "present",
+      "cer": 0,
+      "orderCer": 0.0651
+    },
+    {
+      "page": 24,
+      "textLayer": "present",
+      "cer": 0.0045,
+      "orderCer": 0.0616
+    },
+    {
+      "page": 25,
+      "textLayer": "present",
+      "cer": 0,
+      "orderCer": 0.0597
+    },
+    {
+      "page": 26,
+      "textLayer": "present",
+      "cer": 0.0471,
+      "orderCer": 0.1559
+    },
+    {
+      "page": 27,
+      "textLayer": "present",
+      "cer": 0,
+      "orderCer": 0.1528
+    },
+    {
+      "page": 28,
+      "textLayer": "present",
+      "cer": 0.0096,
+      "orderCer": 0.0981
+    },
+    {
+      "page": 29,
+      "textLayer": "present",
+      "cer": 0,
+      "orderCer": 0.1217
+    },
+    {
+      "page": 30,
+      "textLayer": "present",
+      "cer": 0.0043,
+      "orderCer": 0.1424
+    },
+    {
+      "page": 31,
+      "textLayer": "present",
+      "cer": 0.0272,
+      "orderCer": 0.1903
+    },
+    {
+      "page": 32,
+      "textLayer": "present",
+      "cer": 0.0055,
+      "orderCer": 0.1169
+    },
+    {
+      "page": 33,
+      "textLayer": "present",
+      "cer": 0.0262,
+      "orderCer": 0.0794
+    },
+    {
+      "page": 34,
+      "textLayer": "present",
+      "cer": 0.0074,
+      "orderCer": 0.0592
+    },
+    {
+      "page": 35,
+      "textLayer": "present",
+      "cer": 0.0282,
+      "orderCer": 0.1626
+    },
+    {
+      "page": 36,
+      "textLayer": "present",
+      "cer": 0,
+      "orderCer": 0.1609
+    },
+    {
+      "page": 37,
+      "textLayer": "present",
+      "cer": 0.0039,
+      "orderCer": 0.1138
+    },
+    {
+      "page": 38,
+      "textLayer": "present",
+      "cer": 0.0046,
+      "orderCer": 0.1842
+    },
+    {
+      "page": 39,
+      "textLayer": "present",
+      "cer": 0.008,
+      "orderCer": 0.1248
+    },
+    {
+      "page": 40,
+      "textLayer": "present",
+      "cer": 0.0141,
+      "orderCer": 0.1289
+    },
+    {
+      "page": 41,
+      "textLayer": "present",
+      "cer": 0.0094,
+      "orderCer": 0.0862
+    },
+    {
+      "page": 42,
+      "textLayer": "present",
+      "cer": 0.0227,
+      "orderCer": 0.1002
+    },
+    {
+      "page": 43,
+      "textLayer": "present",
+      "cer": 0.0129,
+      "orderCer": 0.1523
+    },
+    {
+      "page": 44,
+      "textLayer": "present",
+      "cer": 0,
+      "orderCer": 0.137
+    },
+    {
+      "page": 45,
+      "textLayer": "present",
+      "cer": 0.0152,
+      "orderCer": 0.0839
+    },
+    {
+      "page": 46,
+      "textLayer": "present",
+      "cer": 0.0195,
+      "orderCer": 0.0963
+    },
+    {
+      "page": 47,
+      "textLayer": "present",
+      "cer": 0.0265,
+      "orderCer": 0.115
+    },
+    {
+      "page": 48,
+      "textLayer": "present",
+      "cer": 0.0243,
+      "orderCer": 0.0699
+    },
+    {
+      "page": 49,
+      "textLayer": "present",
+      "cer": 0.0058,
+      "orderCer": 0.1169
+    },
+    {
+      "page": 50,
+      "textLayer": "present",
+      "cer": 0.0083,
+      "orderCer": 0.139
+    }
+  ],
+  "engine": "tesseract.js 6.0.1"
+}

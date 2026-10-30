@@ -1,0 +1,39 @@
+{
+  "name": "zamora",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "typecheck": "tsc --noEmit",
+    "test": "tsx --test tests/catalog.test.ts tests/search.test.ts tests/citations.test.ts tests/baseline.test.ts tests/policy.test.ts tests/districts.test.ts tests/public-records.test.ts tests/ocr.test.ts tests/tags.test.ts tests/evidence.test.ts tests/retrieve.test.ts tests/briefs.test.ts tests/forecast.test.ts tests/atlas-profile.test.ts tests/governance.test.ts tests/workspace.test.ts tests/billing.test.ts tests/plan.test.ts",
+    "districts:build": "node scripts/build-districts.mjs",
+    "db:up": "docker compose up -d",
+    "db:embedded": "tsx scripts/embedded-pg.ts",
+    "db:migrate": "tsx scripts/migrate.ts",
+    "db:seed": "tsx scripts/seed.ts",
+    "db:setup": "docker compose up -d && tsx scripts/wait-for-db.ts && tsx scripts/migrate.ts && tsx scripts/seed.ts",
+    "map:build": "node scripts/build-map.mjs",
+    "indicators:build": "node scripts/process-indicators.mjs"
+  },
+  "dependencies": {
+    "next": "^15.5.4",
+    "pg": "^8.16.3",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "zod": "^4.1.11"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.14",
+    "@types/node": "^24.7.0",
+    "@types/pg": "^8.15.5",
+    "@types/react": "^19.1.16",
+    "@types/react-dom": "^19.1.9",
+    "embedded-postgres": "^18.4.0-beta.17",
+    "tailwindcss": "^4.1.14",
+    "tesseract.js": "^6.0.1",
+    "tsx": "^4.20.6",
+    "typescript": "^5.9.3"
+  }
+}
